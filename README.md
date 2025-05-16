@@ -1,16 +1,14 @@
-# AI-Web-Scraper
-An AI web scraper using ollama, brightdata, selenium and other libraries.
+📊 AI-Powered Web Scraper with Intelligent Data Interpretation & Visualization
+This project is a smart web scraping tool built using Python, Selenium, BeautifulSoup, and enhanced with Ollama LLM for AI-driven data interpretation. Designed for efficient data extraction, processing, and visualization, it streamlines web data collection into meaningful insights.
 
+🛠 Key Features:
 
-# 💻 Launch Your Software Development Career Today!  
+Automated web data extraction from dynamic websites.
 
-🎓 **No degree? No problem!** My program equips you with everything you need to break into tech and land an entry-level software development role.  
+AI-powered content summarization using Ollama LLM.
 
-🚀 **Why Join?**  
-- 💼 **$70k+ starting salary potential**  
-- 🕐 **Self-paced:** Complete on your own time  
-- 🤑 **Affordable:** Low risk compared to expensive bootcamps or degrees
-- 🎯 **45,000+ job openings** in the market  
+Interactive data visualization dashboard with Streamlit.
 
-👉 **[Start your journey today!](https://techwithtim.net/dev)**  
-No experience needed—just your determination. Future-proof your career and unlock six-figure potential like many of our students have!  
+User-friendly interface for seamless exploration of collected data.
+
+🎯 Objective: To reduce manual data collection efforts and provide a smarter, faster way to gather and analyze web data for research, business, or personal use.
